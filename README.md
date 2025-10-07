@@ -28,3 +28,6 @@ Lowercasing Removing punctuation and special characters Removing stopwords Token
 The model performs well on unseen reviews, accurately predicting their sentiment. This proves the effectiveness of combining TF-IDF with Logistic Regression for text classification tasks. Visualization of the confusion matrix and classification report helps in understanding how well the model is distinguishing between positive and negative sentiments.
 
 # OUTPUT
+<img width="985" height="423" alt="Image" src="https://github.com/user-attachments/assets/6a3e21ac-710c-436b-a865-d41e635de4d6" />
+
+<img width="462" height="386" alt="Image" src="https://github.com/user-attachments/assets/af85350e-356e-47d2-b34d-04d37958a8b5" />
